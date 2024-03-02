@@ -1,0 +1,6 @@
+train: ../seedling_dataset_120224/train/images/
+val: ../seedling_dataset_120224/valid/images/
+# number of classes
+nc: 2
+# class names
+names: ["Seedling", "Tray"]
